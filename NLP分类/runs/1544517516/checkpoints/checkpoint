@@ -1,0 +1,3 @@
+model_checkpoint_path: "/var/www/html/test/py/py_study/NLP2/runs/1544517516/checkpoints/model-1500"
+all_model_checkpoint_paths: "/var/www/html/test/py/py_study/NLP2/runs/1544517516/checkpoints/model-1490"
+all_model_checkpoint_paths: "/var/www/html/test/py/py_study/NLP2/runs/1544517516/checkpoints/model-1500"
